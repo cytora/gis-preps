@@ -1,3 +1,10 @@
+
+.idea
+.env.sh
+*.csv
+*.xlsx
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
